@@ -1,0 +1,6 @@
+{
+  "name": "adiES - Student Enquiry Management System",
+  "description": "Comprehensive admission enquiry management system for educational institutions to track prospective students, follow-ups, courses, and staff assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
